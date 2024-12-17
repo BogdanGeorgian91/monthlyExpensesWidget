@@ -1,2 +1,3 @@
 # monthlyExpensesWidget
-A script to display an iOS/iPadOS widget with monthly expenses with categories
+Initial repository I took inspiration from: 
+https://github.com/Frameck/Scriptable
